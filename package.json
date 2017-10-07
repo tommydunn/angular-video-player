@@ -1,0 +1,22 @@
+{
+  "name": "angular-video-player",
+  "version": "1.0.1",
+  "description": "angular-video-player",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tommyldunn/angular-video-player.git"
+  },
+  "keywords": [
+    "angular-video-player"
+  ],
+  "author": "Tommy Dunn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tommyldunn/angular-video-player/issues"
+  },
+  "homepage": "https://github.com/Tommyldunn/angular-video-player#readme"
+}
